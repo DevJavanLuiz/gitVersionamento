@@ -3,5 +3,6 @@
  # Mudançassss
  ## modifeld 
  ## novo titulo
- * comando git push!!
-   ## muito interesante...
+ * comando git push
+ * comando git pull
+ * comando git fetch
